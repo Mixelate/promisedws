@@ -1,0 +1,16 @@
+{
+  "name": "promisedws",
+  "version": "1.0.0",
+  "description": "Promised based web socket client/server library",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "barrelsby": "^2.3.3",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
